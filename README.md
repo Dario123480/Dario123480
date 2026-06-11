@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:1a0b2e,100:6d28d9&height=220&section=header&text=Dario%20is%20here&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2200&pause=900&color=a78bfa&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Building+clean+systems;Always+learning+new+stuff" />
