@@ -22,32 +22,22 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=A78BFA" />
+</p>
 
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=A78BFA" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-111111?style=for-the-badge&logo=spring&logoColor=A78BFA" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A78BFA" />
+</p>
 
-<img src="https://img.shields.io/badge/Spring-111111?style=for-the-badge&logo=spring&logoColor=A78BFA" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A78BFA" />
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A78BFA" />
-
-</td>
-
-<td width="60"></td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A78BFA" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=A78BFA" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=A78BFA" />
+</p>
