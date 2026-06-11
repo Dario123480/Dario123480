@@ -6,13 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&pause=500&color=6a1b9a&center=true&vCenter=true&width=600&lines=Dario+is+here;Fullstack+Developer;Building+cool+systems;Always+learning+new+stuff" />
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dario123480&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
 </p>
 
----
 
 ## ⚡ Live System Status (fun section)
 <p align="center">
@@ -21,7 +19,6 @@
   <img src="https://img.shields.io/badge/LEVEL-IMPROVING-ffcc00?style=for-the-badge" />
 </p>
 
----
 
 ## 🧠 Tech Stack (animated badges style)
 <p align="center">
@@ -32,3 +29,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+---
