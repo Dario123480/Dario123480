@@ -3,24 +3,20 @@
 </p>
 
 <p align="center">
-  <strong style="color:#A78BFA;font-size:18px;">
+  <span style="color:#C4B5FD; font-size:18px;">
     Apprentice at Ergon
-  </strong>
+  </span>
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dario123480&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
 </p>
 
-<br><br>
-
-<h2 align="center" style="color:#C4B5FD;">
-  🧠 Tech Stack
-</h2>
-
 <br>
+
+<h2 align="center">
+  <span style="color:#C4B5FD;">🧠 Tech Stack</span>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=A78BFA" />
