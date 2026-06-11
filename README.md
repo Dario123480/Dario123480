@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0b2e,100:8b5cf6&height=280&section=header&text=Dario&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Java;Spring+Boot;JavaScript;React;PostgreSQL;Building+clean+systems" />
+  <strong style="color:#A78BFA;font-size:18px;">
+    Apprentice at Ergon
+  </strong>
 </p>
 
 <br>
@@ -16,8 +16,8 @@
 
 <br><br>
 
-<h2 align="center">
-  <span style="color:#A78BFA;">🧠 Tech Stack</span>
+<h2 align="center" style="color:#C4B5FD;">
+  🧠 Tech Stack
 </h2>
 
 <br>
