@@ -8,6 +8,20 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dario123480&show_icons=true&theme=tokyonight" />
-</p>
+## ⚙️ Current Focus (2026)
+- Building fullstack web apps
+- Backend APIs & system design
+- Clean code + scalable architecture
+- Learning AI integration into apps
+
+---
+
+## 🧪 Code Test Examples
+
+### Java
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Dario is here");
+    }
+}
